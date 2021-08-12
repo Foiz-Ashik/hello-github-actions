@@ -1,5 +1,11 @@
-## Welcome to "Hello World" with GitHub Actions
+## GitHub Actions
 
-This course will walk you through writing your first action and using it with a workflow file. 
+This repo uses github actions to automate deployment. 
 
-**Ready to get started? Navigate to the first issue.**
+The pull requests will start testing my software as someone requests it. 
+
+This triggers a workflow that goes through the YML configuration file. 
+
+In this repo a simple hello world file and the action.yml file and triggers the Dockerfile. 
+
+
